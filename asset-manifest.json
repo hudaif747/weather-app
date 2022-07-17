@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hudaif747/static/css/main.56c67234.css",
+    "main.js": "/hudaif747/static/js/main.b1d5214d.js",
+    "static/js/787.d9312eb8.chunk.js": "/hudaif747/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/hudaif747/index.html",
+    "main.56c67234.css.map": "/hudaif747/static/css/main.56c67234.css.map",
+    "main.b1d5214d.js.map": "/hudaif747/static/js/main.b1d5214d.js.map",
+    "787.d9312eb8.chunk.js.map": "/hudaif747/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56c67234.css",
+    "static/js/main.b1d5214d.js"
+  ]
+}
